@@ -1,0 +1,30 @@
+C:\Users\User\Technical files\Final project\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\Technical files\Final project\bin\Debug\net8.0\appsettings.json
+C:\Users\User\Technical files\Final project\bin\Debug\net8.0\Final project.staticwebassets.runtime.json
+C:\Users\User\Technical files\Final project\bin\Debug\net8.0\Final project.exe
+C:\Users\User\Technical files\Final project\bin\Debug\net8.0\Final project.deps.json
+C:\Users\User\Technical files\Final project\bin\Debug\net8.0\Final project.runtimeconfig.json
+C:\Users\User\Technical files\Final project\bin\Debug\net8.0\Final project.dll
+C:\Users\User\Technical files\Final project\bin\Debug\net8.0\Final project.pdb
+C:\Users\User\Technical files\Final project\obj\Debug\net8.0\Final project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Technical files\Final project\obj\Debug\net8.0\Final project.AssemblyInfoInputs.cache
+C:\Users\User\Technical files\Final project\obj\Debug\net8.0\Final project.AssemblyInfo.cs
+C:\Users\User\Technical files\Final project\obj\Debug\net8.0\Final project.csproj.CoreCompileInputs.cache
+C:\Users\User\Technical files\Final project\obj\Debug\net8.0\Final project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Technical files\Final project\obj\Debug\net8.0\Final project.RazorAssemblyInfo.cache
+C:\Users\User\Technical files\Final project\obj\Debug\net8.0\Final project.RazorAssemblyInfo.cs
+C:\Users\User\Technical files\Final project\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\Technical files\Final project\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\Technical files\Final project\obj\Debug\net8.0\staticwebassets\msbuild.Final project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Technical files\Final project\obj\Debug\net8.0\staticwebassets\msbuild.build.Final project.props
+C:\Users\User\Technical files\Final project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Final project.props
+C:\Users\User\Technical files\Final project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Final project.props
+C:\Users\User\Technical files\Final project\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\User\Technical files\Final project\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Technical files\Final project\obj\Debug\net8.0\scopedcss\bundle\Final project.styles.css
+C:\Users\User\Technical files\Final project\obj\Debug\net8.0\scopedcss\projectbundle\Final project.bundle.scp.css
+C:\Users\User\Technical files\Final project\obj\Debug\net8.0\Final project.dll
+C:\Users\User\Technical files\Final project\obj\Debug\net8.0\refint\Final project.dll
+C:\Users\User\Technical files\Final project\obj\Debug\net8.0\Final project.pdb
+C:\Users\User\Technical files\Final project\obj\Debug\net8.0\Final project.genruntimeconfig.cache
+C:\Users\User\Technical files\Final project\obj\Debug\net8.0\ref\Final project.dll
